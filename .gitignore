@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+newsletter_output.txt
+reset_index.py
+test_models.py
+test_models2.py
